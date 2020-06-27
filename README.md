@@ -6,6 +6,8 @@
 
 ![Alt text](/relative/path/to/KerberosSec/scripts/Screenshot_2020-06-27-12-01-18-1.png?raw=true "Imagem")
 
+#Se inscreva no nosso Canal no Youtube: https://www.youtube.com/channel/UCAQ9F2ANiBCnMVxa_a_1v-w
+
 Leia o Arquivo LICENSE para estar ciente dos Direitos Autorais
 
 ------------------------------------------------------
