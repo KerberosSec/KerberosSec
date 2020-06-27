@@ -4,7 +4,7 @@
 #Inspiração: Projeto Shellphish
 #GitHub: https://github.com/Diego333-ms/KerberosSec
 
-![Alt text](/data/data/com.termux/files/home/KerberosSec/scripts/Screenshot_2020-06-27-12-01-18-1.png?raw=true "Imagem")
+![Alt text](/relative/path/to/scripts/Screenshot_2020-06-27-12-01-18-1.png?raw=true "Imagem")
 
 Leia o Arquivo LICENSE para estar ciente dos Direitos Autorais
 
