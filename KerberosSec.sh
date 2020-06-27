@@ -32,7 +32,7 @@ tput setaf 226
 tput setaf 226
  printf "\n\t       Versão: .:. "
 tput setaf 86
- printf "0.4 "
+ printf "0.5 Oficial "
 tput setaf 226
  printf ".:.\n"
 tput setaf 226
