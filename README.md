@@ -10,6 +10,7 @@
 
 Leia o Arquivo LICENSE para estar ciente dos Direitos Autorais
 
+NOVO UPDATE: 0.6 ~ Novos Programas e modificações visuais.
 ------------------------------------------------------
 
 Ao instalar esse Projeto, Use os comandos Abaixo:
