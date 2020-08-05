@@ -10,7 +10,10 @@
 
 Leia o Arquivo LICENSE para estar ciente dos Direitos Autorais
 
-NOVO UPDATE: 0.7 ~ Novos Programas: SocialPhish, Slowloris, Termux-Style
+NOVO UPDATE: Versão 1.2
+*Nova Categoria
+*Novo Layout
+*Novas Funções
 ------------------------------------------------------
 
 Ao instalar esse Projeto, Use os comandos Abaixo:
